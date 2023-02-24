@@ -1,5 +1,3 @@
-rm docs
-rm book
 mdbook build
 mv book docs
 git add .
